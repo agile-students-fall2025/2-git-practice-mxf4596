@@ -4,4 +4,4 @@ I have recently been learning a lot more about computer vision and the general t
 
 # Comment
 
-This is a thorough overview of computer vision, clearly explaining how it enables machines to see and interpret visual data using AI, deep learning, and CNNs. I appreciate how it draws parallels with human vision to make the concept intuitive. Overall, it’s a well rounded explanation for both technical and non-technical readers.
+This is a thorough overview of computer vision, clearly explaining how it enables machines to see and interpret visual data using AI, deep learning, and CNNs. I appreciate how it draws parallels with human vision to make the concept intuitive. Overall, it’s a well rounded explanation for both technical and non-technical readers. -Lanxi Lin
