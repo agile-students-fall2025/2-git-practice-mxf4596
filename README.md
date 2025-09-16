@@ -1,3 +1,3 @@
-# [What is computer vision?] (https://www.ibm.com/think/topics/computer-vision)
+# [What is computer vision?](https://www.ibm.com/think/topics/computer-vision)
 
 I have recently been learning a lot more about computer vision and the general topic of it is really interesting to me. Its connection with deep learning and AI is also really interesting to me. Computer vision can be used for so much. Self driving cars, generative AI, and so much more can all be advanced by computer vision. This article is really good for someone getting into it. It goes over the basics like how it works and the history of it. I think it is a really great resource.
